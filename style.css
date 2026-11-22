@@ -15,6 +15,6 @@ nav a { margin: 0 10px; }
 footer { text-align:center; color: var(--muted); font-size: 14px; margin-top: 40px; }
 ul { padding-left: 22px; }
 .cta { margin: 22px 0 6px; }
-.cta img { height: 54px; }
+.cta img { width: auto; height: 54px; border-radius: 0; image-rendering: auto; }
 .soon { display: inline-block; padding: 12px 20px; border: 2px solid var(--accent); border-radius: 12px; color: var(--accent); font-weight: 600; }
 .daily h2 { margin-top: 0; }
